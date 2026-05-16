@@ -16,3 +16,7 @@ string, array, class, object, interface.
 the scanner next() function only takes one taken at a time (like tony stark it will take only tony as input).
 the scanner nextline() is used to take full ine as input.
 Similarly, nextint(), nextlong(), nextfloat(), etc are scanner functions.
+# IF Else 
+after if there is no curly braces and only one statement is written then it works but for multiple statements curly braces is necessary.
+# Switch Case
+instead od wrting multiple if else and else if we write one switch and add cases under it for all the cases as if's. which ever case mathes that statement id printed. the break after that makes sure the task of one single button press is complete. if break is not written the all the statement until the next break are printed.
