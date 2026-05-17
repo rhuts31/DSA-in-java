@@ -20,3 +20,12 @@ Similarly, nextint(), nextlong(), nextfloat(), etc are scanner functions.
 after if there is no curly braces and only one statement is written then it works but for multiple statements curly braces is necessary.
 # Switch Case
 instead od wrting multiple if else and else if we write one switch and add cases under it for all the cases as if's. which ever case mathes that statement id printed. the break after that makes sure the task of one single button press is complete. if break is not written the all the statement until the next break are printed.
+# For Loop
+for(intialization; conditiont(when the loop should end that condition); updation){
+    code}
+a never ending loop is called infinite loop.
+# While loop
+while(condition)
+will be executed until the condition is true.
+# Do while loop
+the do work is done until the condition in while is true. the work in done alteast once bcuz the do work is first done then the condition is checked.
