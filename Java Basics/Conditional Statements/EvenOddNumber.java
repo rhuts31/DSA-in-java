@@ -5,7 +5,6 @@ public class EvenOddNumber {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number:");
         int n = sc.nextInt();
-        
         if(n % 2 == 0){
             System.out.println("Even Number");
         }
